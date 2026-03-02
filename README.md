@@ -1,4 +1,4 @@
-# Xtra, Client for Twitch
+# Xtra, Twitch Client
 
 <img src="https://github.com/AndreyAsadchy/Xtra/blob/197ba90cac879abd2a5645393ce361847f12fa0b/app/src/main/ic_launcher-web.png" align="left" width="100"/>
 
